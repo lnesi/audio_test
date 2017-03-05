@@ -1,0 +1,18 @@
+{
+  "name": "audio_test",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Luis Nesi"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+	"path": "audio/",
+	 "manifest": [
+	    {"src": "bass.ogg", "id":"bass"},
+	    {"src": "drums.ogg", "id":"drums"},
+	    {"src": "g1.ogg", "id":"g1"},
+	    {"src": "g2.ogg", "id":"g2"},
+	    {"src": "g3.ogg", "id":"g3"}
+	   
+	    
+	 ]
+}
